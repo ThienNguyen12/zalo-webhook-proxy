@@ -1,0 +1,7 @@
+{
+  "name": "zalo-webhook-proxy",
+  "version": "1.0.0",
+  "scripts": {
+    "vercel-build": "cp -r public ./"
+  }
+}
